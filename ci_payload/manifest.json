@@ -1,0 +1,32 @@
+[
+  {
+    "dest": "gradle/wrapper/gradle-wrapper.jar",
+    "src": "ci_payload/00_gradle-wrapper.jar.b64",
+    "size": 43764
+  },
+  {
+    "dest": "src/main/resources/assets/edgerunners/textures/item/sandevistan.png",
+    "src": "ci_payload/01_sandevistan.png.b64",
+    "size": 125
+  },
+  {
+    "dest": "src/main/resources/assets/edgerunners/textures/entity/sandevistan.png",
+    "src": "ci_payload/02_sandevistan.png.b64",
+    "size": 3258
+  },
+  {
+    "dest": "src/main/resources/assets/edgerunners/textures/mob_effect/sandevistan.png",
+    "src": "ci_payload/03_sandevistan.png.b64",
+    "size": 207
+  },
+  {
+    "dest": "src/main/resources/assets/edgerunners/textures/mob_effect/time_dilation.png",
+    "src": "ci_payload/04_time_dilation.png.b64",
+    "size": 194
+  },
+  {
+    "dest": "blockbench/sandevistan.bbmodel",
+    "src": "ci_payload/05_sandevistan.bbmodel.b64",
+    "size": 23775
+  }
+]
